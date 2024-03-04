@@ -1,258 +1,279 @@
 {
-  "1º Período": {
-    "disciplinas": [
-      {
-        "nome": "Fundamentos de Redes de Computadores",
-        "componente": "TCN.0425",
-        "carga_horaria": "72h",
-        "imagem_res": 1
-      },
-      {
-        "nome": "Informática Instrumental",
-        "componente": "TCN.0621",
-        "carga_horaria": "72h",
-        "imagem_res": 2
-      },
-      {
-        "nome": "Inglês Técnico",
-        "componente": "TCN.0095",
-        "carga_horaria": "30h",
-        "imagem_res": 3
-      },
-      {
-        "nome": "Introdução À Computação",
-        "componente": "TCN.0591",
-        "carga_horaria": "66h",
-        "imagem_res": 4
-      },
-      {
-        "nome": "Introdução À Lógica",
-        "componente": "TCN.0168",
-        "carga_horaria": "72h",
-        "imagem_res": 5
-      },
-      {
-        "nome": "Tendências Tecnológicas Para O Mercado de Ti",
-        "componente": "TCN.0570",
-        "carga_horaria": "36h",
-        "imagem_res": 6
-      }
-    ]
-  },
-  "2º Período": {
-    "disciplinas": [
-      {
-        "nome": "Análise de Sistemas",
-        "componente": "TCN.0608",
-        "carga_horaria": "72h",
-        "imagem_res": 7
-      },
-      {
-        "nome": "Fundamentos e Projeto de Banco de Dados",
-        "componente": "TCN.0637",
-        "carga_horaria": "72h",
-        "imagem_res": 8
-      },
-      {
-        "nome": "Introdução À Programação",
-        "componente": "TCN.0576",
-        "carga_horaria": "80h",
-        "imagem_res": 9
-      },
-      {
-        "nome": "Programação Básica Para Web",
-        "componente": "TCN.0366",
-        "carga_horaria": "72h",
-        "imagem_res": 10
-      },
-      {
-        "nome": "Programação Orientada À Objetos",
-        "componente": "TCN.0706",
-        "carga_horaria": "72h",
-        "imagem_res": 11
-      }
-    ]
-  },
-  "3º Período": {
-    "disciplinas": [
-      {
-        "nome": "Administração de Sistemas Proprietários",
-        "componente": "TCN.0406",
-        "carga_horaria": "36h",
-        "imagem_res": 12
-      },
-      {
-        "nome": "Gerenciamento de Dados Para Web",
-        "componente": "TCN.0375",
-        "carga_horaria": "72h",
-        "imagem_res": 13
-      },
-      {
-        "nome": "Introdução À Conectividade",
-        "componente": "TCN.0129",
-        "carga_horaria": "72h",
-        "imagem_res": 14
-      },
-      {
-        "nome": "Programação Para Banco de Dados",
-        "componente": "TCN.0138",
-        "carga_horaria": "72h",
-        "imagem_res": 15
-      },
-      {
-        "nome": "Programação Para Web Designers",
-        "componente": "TCN.0260",
-        "carga_horaria": "36h",
-        "imagem_res": 16
-      },
-      {
-        "nome": "Programação Para Web I",
-        "componente": "TCN.0695",
-        "carga_horaria": "72h",
-        "imagem_res": 17
-      }
-    ]
-  },
-  "4º Período": {
-    "disciplinas": [
-      {
-        "nome": "Programação Para Web II",
-        "componente": "TCN.0472",
-        "carga_horaria": "72h",
-        "imagem_res": 18
-      },
-      {
-        "nome": "Projeto de Interface Web",
-        "componente": "TCN.0218",
-        "carga_horaria": "36h",
-        "imagem_res": 19
-      },
-      {
-        "nome": "Projeto de Sistemas",
-        "componente": "TCN.0699",
-        "carga_horaria": "36h",
-        "imagem_res": 20
-      },
-      {
-        "nome": "Sistemas Distribuídos e Soa",
-        "componente": "TCN.0684",
-        "carga_horaria": "72h",
-        "imagem_res": 21
-      },
-      {
-        "nome": "Testes de Software",
-        "componente": "TCN.0398",
-        "carga_horaria": "36h",
-        "imagem_res": 22
-      }
-    ]
-  },
-  "5º Período": {
-    "disciplinas": [
-      {
-        "nome": "Administração de Banco de Dados",
-        "componente": "TCN.0152",
-        "carga_horaria": "72h",
-        "imagem_res": 23
-      },
-      {
-        "nome": "Infraestrutura Para Sistemas Web",
-        "componente": "TCN.0489",
-        "carga_horaria": "36h",
-        "imagem_res": 24
-      },
-      {
-        "nome": "Metodologias de Desenvolvimento",
-        "componente": "TCN.0515",
-        "carga_horaria": "36h",
-        "imagem_res": 25
-      },
-      {
-        "nome": "Novas Tecnologias em Bd",
-        "componente": "TCN.0016",
-        "carga_horaria": "72h",
-        "imagem_res": 26
-      },
-      {
-        "nome": "Programação Para Dispositivos Móveis I",
-        "componente": "TCN.0238",
-        "carga_horaria": "72h",
-        "imagem_res": 27
-      },
-      {
-        "nome": "Segurança de Sistemas",
-        "componente": "TCN.0653",
-        "carga_horaria": "36h",
-        "imagem_res": 28
-      }
-    ]
-  },
-  "6º Período": {
-    "disciplinas": [
-      {
-        "nome": "Gerência de Configuração",
-        "componente": "TCN.0403",
-        "carga_horaria": "72h",
-        "imagem_res": 29
-      },
-      {
-        "nome": "Novas Tecnologias em Desenvolvimento Para Web",
-        "componente": "TCN.0236",
-        "carga_horaria": "72h",
-        "imagem_res": 30
-      },
-      {
-        "nome": "Padrões de Projeto",
-        "componente": "TCN.0062",
-        "carga_horaria": "72h",
-        "imagem_res": 31
-      },
-      {
-        "nome": "Programação Para Dispositivos Móveis II",
-        "componente": "TCN.0013",
-        "carga_horaria": "72h",
-        "imagem_res": 32
-      }
-    ]
-  },
-  "Optativas": {
-    "disciplinas": [
-      {
-        "nome": "Direito Aplicado À Informática",
-        "componente": "TCN.0259",
-        "carga_horaria": "60h",
-        "imagem_res": 33
-      },
-      {
-        "nome": "Eletiva",
-        "componente": "TCN.0358",
-        "carga_horaria": "60h",
-        "imagem_res": 34
-      },
-      {
-        "nome": "Estatística Aplicada",
-        "componente": "TCN.0022",
-        "carga_horaria": "60h",
-        "imagem_res": 35
-      },
-      {
-        "nome": "Gestão de Projetos",
-        "componente": "TCN.0525",
-        "carga_horaria": "60h",
-        "imagem_res": 36
-      },
-      {
-        "nome": "Leitura e Produção de Textos",
-        "componente": "TCN.0449",
-        "carga_horaria": "60h",
-        "imagem_res": 37
-      },
-      {
-        "nome": "Libras",
-        "componente": "TCN.0785",
-        "carga_horaria": "60h",
-        "imagem_res": 38
-      }
-    ]
-  }
+  "periodos": [
+    {
+      "nome": "Primeiro Período",
+      "disciplinas": [
+        {
+          "nome": "Fundamentos de Redes de Computadores",
+          "componente": "TCN.0425",
+          "carga_horaria": "72h",
+          "imagem_res": 1
+        },
+        {
+          "nome": "Informática Instrumental",
+          "componente": "TCN.0621",
+          "carga_horaria": "72h",
+          "imagem_res": 2
+        },
+        {
+          "nome": "Inglês Técnico",
+          "componente": "TCN.0095",
+          "carga_horaria": "30h",
+          "imagem_res": 3
+        },
+        {
+          "nome": "Introdução À Computação",
+          "componente": "TCN.0591",
+          "carga_horaria": "66h",
+          "imagem_res": 4
+        },
+        {
+          "nome": "Introdução À Lógica",
+          "componente": "TCN.0168",
+          "carga_horaria": "72h",
+          "imagem_res": 5
+        },
+        {
+          "nome": "Tendências Tecnológicas Para O Mercado de Ti",
+          "componente": "TCN.0570",
+          "carga_horaria": "36h",
+          "imagem_res": 6
+        }
+      ]
+    },
+    {
+      "nome": "Segundo Período",
+      "disciplinas": [
+        {
+          "nome": "Análise de Sistemas",
+          "componente": "TCN.0608",
+          "carga_horaria": "72h",
+          "imagem_res": 7
+        },
+        {
+          "nome": "Fundamentos e Projeto de Banco de Dados",
+          "componente": "TCN.0637",
+          "carga_horaria": "72h",
+          "imagem_res": 8
+        },
+        {
+          "nome": "Introdução À Programação",
+          "componente": "TCN.0576",
+          "carga_horaria": "80h",
+          "imagem_res": 9
+        },
+        {
+          "nome": "Programação Básica Para Web",
+          "componente": "TCN.0366",
+          "carga_horaria": "72h",
+          "imagem_res": 10
+        },
+        {
+          "nome": "Programação Orientada À Objetos",
+          "componente": "TCN.0706",
+          "carga_horaria": "72h",
+          "imagem_res": 11
+        }
+      ]
+    },
+    {
+      "nome": "Terceiro Período",
+      "disciplinas": [
+        {
+          "nome": "Administração de Sistemas Proprietários",
+          "componente": "TCN.0406",
+          "carga_horaria": "36h",
+          "imagem_res": 12
+        },
+        {
+          "nome": "Gerenciamento de Dados Para Web",
+          "componente": "TCN.0375",
+          "carga_horaria": "72h",
+          "imagem_res": 13
+        },
+        {
+          "nome": "Introdução À Conectividade",
+          "componente": "TCN.0129",
+          "carga_horaria": "72h",
+          "imagem_res": 14
+        },
+        {
+          "nome": "Programação Para Banco de Dados",
+          "componente": "TCN.0138",
+          "carga_horaria": "72h",
+          "imagem_res": 15
+        },
+        {
+          "nome": "Programação Para Web Designers",
+          "componente": "TCN.0260",
+          "carga_horaria": "36h",
+          "imagem_res": 16
+        },
+        {
+          "nome": "Programação Para Web I",
+          "componente": "TCN.0695",
+          "carga_horaria": "72h",
+          "imagem_res": 17
+        }
+      ]
+    },
+    {
+      "nome": "Quarto Período",
+      "disciplinas": [
+        {
+          "nome": "Programação Para Web II",
+          "componente": "TCN.0472",
+          "carga_horaria": "72h",
+          "imagem_res": 18
+        },
+        {
+          "nome": "Projeto de Interface Web",
+          "componente": "TCN.0218",
+          "carga_horaria": "36h",
+          "imagem_res": 19
+        },
+        {
+          "nome": "Projeto de Sistemas",
+          "componente": "TCN.0699",
+          "carga_horaria": "36h",
+          "imagem_res": 20
+        },
+        {
+          "nome": "Sistemas Distribuídos e Soa",
+          "componente": "TCN.0684",
+          "carga_horaria": "72h",
+          "imagem_res": 21
+        },
+        {
+          "nome": "Testes de Software",
+          "componente": "TCN.0398",
+          "carga_horaria": "36h",
+          "imagem_res": 22
+        }
+      ]
+    },
+    {
+      "nome": "Quinto Período",
+      "disciplinas": [
+        {
+          "nome": "Administração de Banco de Dados",
+          "componente": "TCN.0152",
+          "carga_horaria": "72h",
+          "imagem_res": 23
+        },
+        {
+          "nome": "Infraestrutura Para Sistemas Web",
+          "componente": "TCN.0489",
+          "carga_horaria": "36h",
+          "imagem_res": 24
+        },
+        {
+          "nome": "Metodologias de Desenvolvimento",
+          "componente": "TCN.0515",
+          "carga_horaria": "36h",
+          "imagem_res": 25
+        },
+        {
+          "nome": "Novas Tecnologias em Bd",
+          "componente": "TCN.0016",
+          "carga_horaria": "72h",
+          "imagem_res": 26
+        },
+        {
+          "nome": "Programação Para Dispositivos Móveis I",
+          "componente": "TCN.0238",
+          "carga_horaria": "72h",
+          "imagem_res": 27
+        },
+        {
+          "nome": "Segurança de Sistemas",
+          "componente": "TCN.0653",
+          "carga_horaria": "36h",
+          "imagem_res": 28
+        }
+      ]
+    },
+    {
+      "nome": "Sexto Período",
+      "disciplinas": [
+        {
+          "nome": "Gerência de Configuração",
+          "componente": "TCN.0275",
+          "carga_horaria": "36h",
+          "imagem_res": 29
+        },
+        {
+          "nome": "Programação Para Dispositivos Móveis II",
+          "componente": "TCN.0681",
+          "carga_horaria": "72h",
+          "imagem_res": 30
+        },
+        {
+          "nome": "Projeto de Tcc I",
+          "componente": "TCN.0237",
+          "carga_horaria": "36h",
+          "imagem_res": 31
+        },
+        {
+          "nome": "Redes Sem Fio",
+          "componente": "TCN.0578",
+          "carga_horaria": "72h",
+          "imagem_res": 32
+        },
+        {
+          "nome": "Tcc",
+          "componente": "TCN.0475",
+          "carga_horaria": "36h",
+          "imagem_res": 33
+        },
+        {
+          "nome": "Tópicos Especiais em Tecnologia da Informação I",
+          "componente": "TCN.0113",
+          "carga_horaria": "36h",
+          "imagem_res": 34
+        }
+      ]
+    },
+    {
+      "nome": "Optativas",
+      "disciplinas": [
+        {
+          "nome": "Administração e Planejamento em Redes de Computadores",
+          "componente": "TCN.0080",
+          "carga_horaria": "72h",
+          "imagem_res": 35
+        },
+        {
+          "nome": "Análise e Projeto de Sistemas",
+          "componente": "TCN.0006",
+          "carga_horaria": "72h",
+          "imagem_res": 36
+        },
+        {
+          "nome": "Análise e Projeto Orientado a Objetos",
+          "componente": "TCN.0707",
+          "carga_horaria": "72h",
+          "imagem_res": 37
+        },
+        {
+          "nome": "Análise e Projeto Orientado a Objetos com Uml",
+          "componente": "TCN.0137",
+          "carga_horaria": "72h",
+          "imagem_res": 38
+        },
+        {
+          "nome": "Análise e Projeto Orientado a Objetos II",
+          "componente": "TCN.0658",
+          "carga_horaria": "72h",
+          "imagem_res": 39
+        },
+        {
+          "nome": "Análise e Projeto Orientado a Objetos Para Web",
+          "componente": "TCN.0687",
+          "carga_horaria": "72h",
+          "imagem_res": 40
+        }
+      ]
+    }
+  ]
 }
