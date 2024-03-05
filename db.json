@@ -7,37 +7,61 @@
           "nome": "Fundamentos de Redes de Computadores",
           "componente": "TCN.0425",
           "carga_horaria": "72h",
-          "imagem_res": 1
+          "imagem_res": 1,
+          "periodo": 1,
+          "nota": 73.0,
+          "situação": "Aprovado",
+          "professor": "NAPOLEAO POVOA RIBEIRO FILHO"
         },
         {
           "nome": "Informática Instrumental",
           "componente": "TCN.0621",
           "carga_horaria": "72h",
-          "imagem_res": 2
+          "imagem_res": 2,
+          "periodo": 1,
+          "nota": 80.0,
+          "situação": "Aprovado",
+          "professor": "BRUNO VIANA COUTINHO"
         },
         {
           "nome": "Inglês Técnico",
           "componente": "TCN.0095",
           "carga_horaria": "30h",
-          "imagem_res": 3
+          "imagem_res": 3,
+          "periodo": 1,
+          "nota": 70.0,
+          "situação": "Aprovado",
+          "professor": "MARCIA AMARAL BERTAO"
         },
         {
           "nome": "Introdução À Computação",
           "componente": "TCN.0591",
           "carga_horaria": "66h",
-          "imagem_res": 4
+          "imagem_res": 4,
+          "periodo": 1,
+          "nota": 60.0,
+          "situação": "Aprovado",
+          "professor": "NAPOLEAO POVOA RIBEIRO FILHO"
         },
         {
           "nome": "Introdução À Lógica",
           "componente": "TCN.0168",
           "carga_horaria": "72h",
-          "imagem_res": 5
+          "imagem_res": 5,
+          "periodo": 1,
+          "nota": 82.0,
+          "situação": "Aprovado",
+          "professor": "FRANCISCO DAS CHAGAS DE SOUSA"
         },
         {
           "nome": "Tendências Tecnológicas Para O Mercado de Ti",
           "componente": "TCN.0570",
           "carga_horaria": "36h",
-          "imagem_res": 6
+          "imagem_res": 6,
+          "periodo": 1,
+          "nota": 85.0,
+          "situação": "Aprovado",
+          "professor": "CLAUDIO DE CASTRO MONTEIRO"
         }
       ]
     },
@@ -48,31 +72,51 @@
           "nome": "Análise de Sistemas",
           "componente": "TCN.0608",
           "carga_horaria": "72h",
-          "imagem_res": 7
+          "imagem_res": 7,
+          "periodo": 2,
+          "nota": 90.0,
+          "situação": "Aprovado",
+          "professor": "GERSON PESENTE FOCKING"
         },
         {
           "nome": "Fundamentos e Projeto de Banco de Dados",
           "componente": "TCN.0637",
           "carga_horaria": "72h",
-          "imagem_res": 8
+          "imagem_res": 8,
+          "periodo": 2,
+          "nota": 80.0,
+          "situação": "Aprovado",
+          "professor": "LILIANE CARVALHO FELIX CAVALCANTE"
         },
         {
           "nome": "Introdução À Programação",
           "componente": "TCN.0576",
           "carga_horaria": "80h",
-          "imagem_res": 9
+          "imagem_res": 9,
+          "periodo": 2,
+          "nota": 71.0,
+          "situação": "Aprovado",
+          "professor": "HELDER CLEBER ALMEIDA PEREIRA"
         },
         {
           "nome": "Programação Básica Para Web",
           "componente": "TCN.0366",
           "carga_horaria": "72h",
-          "imagem_res": 10
+          "imagem_res": 10,
+          "periodo": 2,
+          "nota": 63.0,
+          "situação": "Aprovado",
+          "professor": "VINICIUS DE MIRANDA RIOS"
         },
         {
           "nome": "Programação Orientada À Objetos",
           "componente": "TCN.0706",
           "carga_horaria": "72h",
-          "imagem_res": 11
+          "imagem_res": 11,
+          "periodo": 2,
+          "nota": 82.0,
+          "situação": "Aprovado",
+          "professor": "HELDER CLEBER ALMEIDA PEREIRA"
         }
       ]
     },
@@ -83,37 +127,61 @@
           "nome": "Administração de Sistemas Proprietários",
           "componente": "TCN.0406",
           "carga_horaria": "36h",
-          "imagem_res": 12
+          "imagem_res": 12,
+          "periodo": 3,
+          "nota": 80.0,
+          "situação": "Aprovado",
+          "professor": "BRUNO VIANA COUTINHO"
         },
         {
           "nome": "Gerenciamento de Dados Para Web",
           "componente": "TCN.0375",
           "carga_horaria": "72h",
-          "imagem_res": 13
+          "imagem_res": 13,
+          "periodo": 3,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         },
         {
           "nome": "Introdução À Conectividade",
           "componente": "TCN.0129",
           "carga_horaria": "72h",
-          "imagem_res": 14
+          "imagem_res": 14,
+          "periodo": 3,
+          "nota": 70.0,
+          "situação": "Aprovado",
+          "professor": "CLAUDIO DE CASTRO MONTEIRO"
         },
         {
           "nome": "Programação Para Banco de Dados",
           "componente": "TCN.0138",
           "carga_horaria": "72h",
-          "imagem_res": 15
+          "imagem_res": 15,
+          "periodo": 3,
+          "nota": 62.0,
+          "situação": "Aprovado",
+          "professor": "SIMONE DUTRA MARTINS GUARDA"
         },
         {
           "nome": "Programação Para Web Designers",
           "componente": "TCN.0260",
           "carga_horaria": "36h",
-          "imagem_res": 16
+          "imagem_res": 16,
+          "periodo": 3,
+          "nota": 90.0,
+          "situação": "Aprovado",
+          "professor": "ROBERTA ALEHANDRA PRADOS NOBRE"
         },
         {
           "nome": "Programação Para Web I",
           "componente": "TCN.0695",
           "carga_horaria": "72h",
-          "imagem_res": 17
+          "imagem_res": 17,
+          "periodo": 3,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         }
       ]
     },
@@ -124,31 +192,51 @@
           "nome": "Programação Para Web II",
           "componente": "TCN.0472",
           "carga_horaria": "72h",
-          "imagem_res": 18
+          "imagem_res": 18,
+          "periodo": 4,
+          "nota": 87.0,
+          "situação": "Aprovado",
+          "professor": "Fagno Alves Fonseca"
         },
         {
           "nome": "Projeto de Interface Web",
           "componente": "TCN.0218",
           "carga_horaria": "36h",
-          "imagem_res": 19
+          "imagem_res": 19,
+          "periodo": 4,
+          "nota": 68.0,
+          "situação": "Aprovado",
+          "professor": "Marlio Kleber Venancio Gomes"
         },
         {
           "nome": "Projeto de Sistemas",
           "componente": "TCN.0699",
           "carga_horaria": "36h",
-          "imagem_res": 20
+          "imagem_res": 20,
+          "periodo": 4,
+          "nota": 71.0,
+          "situação": "Aprovado",
+          "professor": "MAURO HENRIQUE LIMA DE BONI"
         },
         {
           "nome": "Sistemas Distribuídos e Soa",
           "componente": "TCN.0684",
           "carga_horaria": "72h",
-          "imagem_res": 21
+          "imagem_res": 21,
+          "periodo": 4,
+          "nota": 82.0,
+          "situação": "Aprovado",
+          "professor": "Manoel Campos da Silva Filho"
         },
         {
           "nome": "Testes de Software",
           "componente": "TCN.0398",
           "carga_horaria": "36h",
-          "imagem_res": 22
+          "imagem_res": 22,
+          "periodo": 4,
+          "nota": 76.0,
+          "situação": "Aprovado",
+          "professor": "MAURO HENRIQUE LIMA DE BONI"
         }
       ]
     },
@@ -159,37 +247,61 @@
           "nome": "Administração de Banco de Dados",
           "componente": "TCN.0152",
           "carga_horaria": "72h",
-          "imagem_res": 23
+          "imagem_res": 23,
+          "periodo": 5,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "Simone Dutra Martins Guarda"
         },
         {
           "nome": "Infraestrutura Para Sistemas Web",
           "componente": "TCN.0489",
           "carga_horaria": "36h",
-          "imagem_res": 24
+          "imagem_res": 24,
+          "periodo": 5,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "Ricardo Loureiro Soares"
         },
         {
           "nome": "Metodologias de Desenvolvimento",
           "componente": "TCN.0515",
           "carga_horaria": "36h",
-          "imagem_res": 25
+          "imagem_res": 25,
+          "periodo": 5,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "Liliane Carvalho Felix Cavalcante"
         },
         {
           "nome": "Novas Tecnologias em Bd",
           "componente": "TCN.0016",
           "carga_horaria": "72h",
-          "imagem_res": 26
+          "imagem_res": 26,
+          "periodo": 5,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "Simone Dutra Martins Guarda"
         },
         {
           "nome": "Programação Para Dispositivos Móveis I",
           "componente": "TCN.0238",
           "carga_horaria": "72h",
-          "imagem_res": 27
+          "imagem_res": 27,
+          "periodo": 5,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "Fagno Alves Fonseca"
         },
         {
           "nome": "Segurança de Sistemas",
           "componente": "TCN.0653",
           "carga_horaria": "36h",
-          "imagem_res": 28
+          "imagem_res": 28,
+          "periodo": 5,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "Bruno Viana Coutinho"
         }
       ]
     },
@@ -200,37 +312,61 @@
           "nome": "Gerência de Configuração",
           "componente": "TCN.0275",
           "carga_horaria": "36h",
-          "imagem_res": 29
+          "imagem_res": 29,
+          "periodo": 6,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         },
         {
           "nome": "Programação Para Dispositivos Móveis II",
           "componente": "TCN.0681",
           "carga_horaria": "72h",
-          "imagem_res": 30
+          "imagem_res": 30,
+          "periodo": 6,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "Ana Paula Alves Guimaraes de Col"
         },
         {
           "nome": "Projeto de Tcc I",
           "componente": "TCN.0237",
           "carga_horaria": "36h",
-          "imagem_res": 31
+          "imagem_res": 31,
+          "periodo": 6,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         },
         {
           "nome": "Redes Sem Fio",
           "componente": "TCN.0578",
           "carga_horaria": "72h",
-          "imagem_res": 32
+          "imagem_res": 32,
+          "periodo": 6,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         },
         {
           "nome": "Tcc",
           "componente": "TCN.0475",
           "carga_horaria": "36h",
-          "imagem_res": 33
+          "imagem_res": 33,
+          "periodo": 6,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         },
         {
           "nome": "Tópicos Especiais em Tecnologia da Informação I",
           "componente": "TCN.0113",
           "carga_horaria": "36h",
-          "imagem_res": 34
+          "imagem_res": 34,
+          "periodo": 6,
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         }
       ]
     },
@@ -241,37 +377,61 @@
           "nome": "Administração e Planejamento em Redes de Computadores",
           "componente": "TCN.0080",
           "carga_horaria": "72h",
-          "imagem_res": 35
+          "imagem_res": 35,
+          "periodo": "Optativas",
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         },
         {
           "nome": "Análise e Projeto de Sistemas",
           "componente": "TCN.0006",
           "carga_horaria": "72h",
-          "imagem_res": 36
+          "imagem_res": 36,
+          "periodo": "Optativas",
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         },
         {
           "nome": "Análise e Projeto Orientado a Objetos",
           "componente": "TCN.0707",
           "carga_horaria": "72h",
-          "imagem_res": 37
+          "imagem_res": 37,
+          "periodo": "Optativas",
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         },
         {
           "nome": "Análise e Projeto Orientado a Objetos com Uml",
           "componente": "TCN.0137",
           "carga_horaria": "72h",
-          "imagem_res": 38
+          "imagem_res": 38,
+          "periodo": "Optativas",
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         },
         {
           "nome": "Análise e Projeto Orientado a Objetos II",
           "componente": "TCN.0658",
           "carga_horaria": "72h",
-          "imagem_res": 39
+          "imagem_res": 39,
+          "periodo": "Optativas",
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         },
         {
           "nome": "Análise e Projeto Orientado a Objetos Para Web",
           "componente": "TCN.0687",
           "carga_horaria": "72h",
-          "imagem_res": 40
+          "imagem_res": 40,
+          "periodo": "Optativas",
+          "nota": null,
+          "situação": "Cursando",
+          "professor": "-"
         }
       ]
     }
