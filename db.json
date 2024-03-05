@@ -329,110 +329,29 @@
           "professor": "Ana Paula Alves Guimaraes de Col"
         },
         {
-          "nome": "Projeto de Tcc I",
-          "componente": "TCN.0237",
-          "carga_horaria": "36h",
-          "imagem_res": 31,
-          "periodo": 6,
-          "nota": null,
-          "situação": "Cursando",
-          "professor": "-"
-        },
-        {
-          "nome": "Redes Sem Fio",
-          "componente": "TCN.0578",
-          "carga_horaria": "72h",
-          "imagem_res": 32,
-          "periodo": 6,
-          "nota": null,
-          "situação": "Cursando",
-          "professor": "-"
-        },
-        {
-          "nome": "Tcc",
-          "componente": "TCN.0475",
-          "carga_horaria": "36h",
-          "imagem_res": 33,
-          "periodo": 6,
-          "nota": null,
-          "situação": "Cursando",
-          "professor": "-"
-        },
-        {
-          "nome": "Tópicos Especiais em Tecnologia da Informação I",
-          "componente": "TCN.0113",
-          "carga_horaria": "36h",
-          "imagem_res": 34,
-          "periodo": 6,
-          "nota": null,
-          "situação": "Cursando",
-          "professor": "-"
-        }
-      ]
+      
+      "nome": "Padrões de Projeto",
+      "componente": "TCN.0685",
+      "carga_horaria": "72h",
+      "imagem_res": 30,
+      "período": 6,
+      "nota": null,
+      "situação": "Cursando",
+      "professor": "Manoel Campos da Silva Filho",
+
     },
     {
-      "nome": "Optativas",
-      "disciplinas": [
-        {
-          "nome": "Administração e Planejamento em Redes de Computadores",
-          "componente": "TCN.0080",
-          "carga_horaria": "72h",
-          "imagem_res": 35,
-          "periodo": "Optativas",
-          "nota": null,
-          "situação": "Cursando",
-          "professor": "-"
-        },
-        {
-          "nome": "Análise e Projeto de Sistemas",
-          "componente": "TCN.0006",
-          "carga_horaria": "72h",
-          "imagem_res": 36,
-          "periodo": "Optativas",
-          "nota": null,
-          "situação": "Cursando",
-          "professor": "-"
-        },
-        {
-          "nome": "Análise e Projeto Orientado a Objetos",
-          "componente": "TCN.0707",
-          "carga_horaria": "72h",
-          "imagem_res": 37,
-          "periodo": "Optativas",
-          "nota": null,
-          "situação": "Cursando",
-          "professor": "-"
-        },
-        {
-          "nome": "Análise e Projeto Orientado a Objetos com Uml",
-          "componente": "TCN.0137",
-          "carga_horaria": "72h",
-          "imagem_res": 38,
-          "periodo": "Optativas",
-          "nota": null,
-          "situação": "Cursando",
-          "professor": "-"
-        },
-        {
-          "nome": "Análise e Projeto Orientado a Objetos II",
-          "componente": "TCN.0658",
-          "carga_horaria": "72h",
-          "imagem_res": 39,
-          "periodo": "Optativas",
-          "nota": null,
-          "situação": "Cursando",
-          "professor": "-"
-        },
-        {
-          "nome": "Análise e Projeto Orientado a Objetos Para Web",
-          "componente": "TCN.0687",
-          "carga_horaria": "72h",
-          "imagem_res": 40,
-          "periodo": "Optativas",
-          "nota": null,
-          "situação": "Cursando",
-          "professor": "-"
-        }
+      "nome": "Novas Tecnologias em Desenvolvimento Para Web",
+      "componente": "TCN.0687",
+      "carga_horaria": "72h",
+      "imagem_res": 30,
+      "período": 6,
+      "nota": null,
+      "situação": "Cursando",
+      "professor": "Fernando Jorge Ebrahim Lima e Silva",
+
+    }
+        
       ]
     }
   ]
