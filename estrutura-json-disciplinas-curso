@@ -1,0 +1,322 @@
+{
+  "periodos": [
+    {
+      "nome": "Primeiro Período",
+      "disciplinas": [
+        {
+          "nome": "Fundamentos de Redes de Computadores",
+          "carga_horaria": "72h",
+          "imagem_res": 1,
+          "periodo": 1,
+          "nota": 73.0,
+          "situacao": "Aprovado",
+          "professor": "NAPOLEAO POVOA RIBEIRO FILHO"
+        },
+        {
+          "nome": "Informática Instrumental",
+          "carga_horaria": "72h",
+          "imagem_res": 2,
+          "periodo": 1,
+          "nota": 80.0,
+          "situacao": "Aprovado",
+          "professor": "BRUNO VIANA COUTINHO"
+        },
+        {
+          "nome": "Inglês Técnico",
+          "carga_horaria": "30h",
+          "imagem_res": 3,
+          "periodo": 1,
+          "nota": 70.0,
+          "situacao": "Aprovado",
+          "professor": "MARCIA AMARAL BERTAO"
+        },
+        {
+          "nome": "Introdução À Computação",
+          "carga_horaria": "66h",
+          "imagem_res": 4,
+          "periodo": 1,
+          "nota": 60.0,
+          "situacao": "Aprovado",
+          "professor": "NAPOLEAO POVOA RIBEIRO FILHO"
+        },
+        {
+          "nome": "Introdução À Lógica",
+          "carga_horaria": "72h",
+          "imagem_res": 5,
+          "periodo": 1,
+          "nota": 82.0,
+          "situacao": "Aprovado",
+          "professor": "FRANCISCO DAS CHAGAS DE SOUSA"
+        },
+        {
+          "nome": "Tendências Tecnológicas Para O Mercado de Ti",
+          "carga_horaria": "36h",
+          "imagem_res": 6,
+          "periodo": 1,
+          "nota": 85.0,
+          "situacao": "Aprovado",
+          "professor": "CLAUDIO DE CASTRO MONTEIRO"
+        }
+      ]
+    },
+    {
+      "nome": "Segundo Período",
+      "disciplinas": [
+        {
+          "nome": "Análise de Sistemas",
+          "carga_horaria": "72h",
+          "imagem_res": 7,
+          "periodo": 2,
+          "nota": 90.0,
+          "situacao": "Aprovado",
+          "professor": "GERSON PESENTE FOCKING"
+        },
+        {
+          "nome": "Fundamentos e Projeto de Banco de Dados",
+          "carga_horaria": "72h",
+          "imagem_res": 8,
+          "periodo": 2,
+          "nota": 80.0,
+          "situacao": "Aprovado",
+          "professor": "LILIANE CARVALHO FELIX CAVALCANTE"
+        },
+        {
+          "nome": "Introdução À Programação",
+          "carga_horaria": "80h",
+          "imagem_res": 9,
+          "periodo": 2,
+          "nota": 71.0,
+          "situacao": "Aprovado",
+          "professor": "HELDER CLEBER ALMEIDA PEREIRA"
+        },
+        {
+          "nome": "Programação Básica Para Web",
+          "carga_horaria": "72h",
+          "imagem_res": 10,
+          "periodo": 2,
+          "nota": 63.0,
+          "situacao": "Aprovado",
+          "professor": "VINICIUS DE MIRANDA RIOS"
+        },
+        {
+          "nome": "Programação Orientada À Objetos",
+          "carga_horaria": "72h",
+          "imagem_res": 11,
+          "periodo": 2,
+          "nota": 82.0,
+          "situacao": "Aprovado",
+          "professor": "HELDER CLEBER ALMEIDA PEREIRA"
+        }
+      ]
+    },
+    {
+      "nome": "Terceiro Período",
+      "disciplinas": [
+        {
+          "nome": "Administração de Sistemas Proprietários",
+          "carga_horaria": "36h",
+          "imagem_res": 12,
+          "periodo": 3,
+          "nota": 80.0,
+          "situacao": "Aprovado",
+          "professor": "BRUNO VIANA COUTINHO"
+        },
+        {
+          "nome": "Gerenciamento de Dados Para Web",
+          "carga_horaria": "72h",
+          "imagem_res": 13,
+          "periodo": 3,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "-"
+        },
+        {
+          "nome": "Introdução À Conectividade",
+          "carga_horaria": "72h",
+          "imagem_res": 14,
+          "periodo": 3,
+          "nota": 70.0,
+          "situacao": "Aprovado",
+          "professor": "CLAUDIO DE CASTRO MONTEIRO"
+        },
+        {
+          "nome": "Programação Para Banco de Dados",
+          "carga_horaria": "72h",
+          "imagem_res": 15,
+          "periodo": 3,
+          "nota": 62.0,
+          "situacao": "Aprovado",
+          "professor": "SIMONE DUTRA MARTINS GUARDA"
+        },
+        {
+          "nome": "Programação Para Web Designers",
+          "carga_horaria": "36h",
+          "imagem_res": 16,
+          "periodo": 3,
+          "nota": 90.0,
+          "situacao": "Aprovado",
+          "professor": "ROBERTA ALEHANDRA PRADOS NOBRE"
+        },
+        {
+          "nome": "Programação Para Web I",
+          "carga_horaria": "72h",
+          "imagem_res": 17,
+          "periodo": 3,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "-"
+        }
+      ]
+    },
+    {
+      "nome": "Quarto Período",
+      "disciplinas": [
+        {
+          "nome": "Programação Para Web II",
+          "carga_horaria": "72h",
+          "imagem_res": 18,
+          "periodo": 4,
+          "nota": 87.0,
+          "situacao": "Aprovado",
+          "professor": "Fagno Alves Fonseca"
+        },
+        {
+          "nome": "Projeto de Interface Web",
+          "carga_horaria": "36h",
+          "imagem_res": 19,
+          "periodo": 4,
+          "nota": 68.0,
+          "situacao": "Aprovado",
+          "professor": "Marlio Kleber Venancio Gomes"
+        },
+        {
+          "nome": "Projeto de Sistemas",
+          "carga_horaria": "36h",
+          "imagem_res": 20,
+          "periodo": 4,
+          "nota": 71.0,
+          "situacao": "Aprovado",
+          "professor": "MAURO HENRIQUE LIMA DE BONI"
+        },
+        {
+          "nome": "Sistemas Distribuídos e Soa",
+          "carga_horaria": "72h",
+          "imagem_res": 21,
+          "periodo": 4,
+          "nota": 82.0,
+          "situacao": "Aprovado",
+          "professor": "Manoel Campos da Silva Filho"
+        },
+        {
+          "nome": "Testes de Software",
+          "carga_horaria": "36h",
+          "imagem_res": 22,
+          "periodo": 4,
+          "nota": 76.0,
+          "situacao": "Aprovado",
+          "professor": "MAURO HENRIQUE LIMA DE BONI"
+        }
+      ]
+    },
+    {
+      "nome": "Quinto Período",
+      "disciplinas": [
+        {
+          "nome": "Administração de Banco de Dados",
+          "carga_horaria": "72h",
+          "imagem_res": 23,
+          "periodo": 5,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "Simone Dutra Martins Guarda"
+        },
+        {
+          "nome": "Infraestrutura Para Sistemas Web",
+          "carga_horaria": "36h",
+          "imagem_res": 24,
+          "periodo": 5,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "Ricardo Loureiro Soares"
+        },
+        {
+          "nome": "Metodologias de Desenvolvimento",
+          "carga_horaria": "36h",
+          "imagem_res": 25,
+          "periodo": 5,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "Liliane Carvalho Felix Cavalcante"
+        },
+        {
+          "nome": "Novas Tecnologias em Bd",
+          "carga_horaria": "72h",
+          "imagem_res": 26,
+          "periodo": 5,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "Simone Dutra Martins Guarda"
+        },
+        {
+          "nome": "Programação Para Dispositivos Móveis I",
+          "carga_horaria": "72h",
+          "imagem_res": 27,
+          "periodo": 5,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "Fagno Alves Fonseca"
+        },
+        {
+          "nome": "Segurança de Sistemas",
+          "carga_horaria": "36h",
+          "imagem_res": 28,
+          "periodo": 5,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "Bruno Viana Coutinho"
+        }
+      ]
+    },
+    {
+      "nome": "Sexto Período",
+      "disciplinas": [
+        {
+          "nome": "Gerência de Configuração",
+          "carga_horaria": "36h",
+          "imagem_res": 29,
+          "periodo": 6,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "-"
+        },
+        {
+          "nome": "Programação Para Dispositivos Móveis II",
+          "carga_horaria": "72h",
+          "imagem_res": 30,
+          "periodo": 6,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "Ana Paula Alves Guimaraes de Col"
+        },
+        {
+          "nome": "Padrões de Projeto",
+          "carga_horaria": "72h",
+          "imagem_res": 31,
+          "periodo": 6,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "Manoel Campos da Silva Filho"
+        },
+        {
+          "nome": "Novas Tecnologias em Desenvolvimento Para Web",
+          "carga_horaria": "72h",
+          "imagem_res": 32,
+          "periodo": 6,
+          "nota": null,
+          "situacao": "Cursando",
+          "professor": "Fernando Jorge Ebrahim Lima e Silva"
+        }
+      ]
+    }
+  ]
+}
